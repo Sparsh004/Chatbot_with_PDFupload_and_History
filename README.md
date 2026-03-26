@@ -36,3 +36,7 @@ PyPDFLoader  ──►  RecursiveCharacterTextSplitter
                           │
                           ▼
                     Final Answer 💬
+
+
+🛠️ Tech Stack
+ComponentTechnologyFrontendStreamlitLLMGroq — Gemma2-9b-itEmbeddingsHuggingFace — all-MiniLM-L6-v2Vector StoreChromaDBRAG FrameworkLangChainPDF LoaderPyPDFLoader
